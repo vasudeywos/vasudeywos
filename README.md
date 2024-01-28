@@ -14,5 +14,3 @@
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoWidth=80)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoWidth=80)   ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoWidth=80) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white&logoWidth=80)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoWidth=40)  ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoWidth=40) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white&logoWidth=40)&nbsp;
