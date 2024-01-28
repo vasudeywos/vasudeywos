@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm ADITYA DUBEY </h1>
 
-<!--
-**vasudeywos/vasudeywos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Backend Developer | BITS Pilani 🚀</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools 🛠
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoWidth=80)  ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white&logoWidth=80) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C&logoWidth=80) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoWidth=80) ![Javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoWidth=80) ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoWidth=80)
+&nbsp;
+
+![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go&logoColor=white&logoWidth=80) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoWidth=80) ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoWidth=80) 
+ ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoWidth=80) ![GORM](https://img.shields.io/badge/-GORM-05122A?style=flat&logo=go&logoColor=white&logoWidth=80)
+
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoWidth=80)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoWidth=80)   ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoWidth=80) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white&logoWidth=80)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoWidth=40)  ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoWidth=40) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white&logoWidth=40)&nbsp;
