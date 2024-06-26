@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm ADITYA DUBEY </h1>
 
-<p align="center">Backend Developer | BITS Pilani 🚀</p>
+<p align="center">Backend Developer | NLP Developer | BITS Pilani 🚀</p>
 
 
 ### Languages & Tools 🛠
