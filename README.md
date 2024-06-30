@@ -26,7 +26,7 @@ A custom Named Entity Recognition (NER) model using BERT for identifying and cla
 
 - **Tech Stack**: Python, PyTorch, Hugging Face Transformers, BERT
 - **Features**: Custom NER model, Affiliation identification, Fine-tuned BERT
-- [View Project](link-to-your-custom-ner-project)
+- [View Project](https://github.com/vasudeywos/Custom_NER)
 
 ## Currently Learning 📚
 
